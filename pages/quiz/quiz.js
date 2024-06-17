@@ -18,8 +18,6 @@ botaoTema.addEventListener("click", () => {
 verificarTema(body, botaoTema)
 
 
-
-
 function alterarAssunto() {
     const divIcone = document.querySelector(".assunto_icone")
     const iconeImg = document.querySelector(".assunto_icone img")
