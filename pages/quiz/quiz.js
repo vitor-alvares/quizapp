@@ -120,6 +120,10 @@ function guardarResposta(evento) {
 
 }
 
+function validarResposta() {
+    
+}
+
 async function iniciar() {
     alterarAssunto()
     await buscarPerguntas()
